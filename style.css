@@ -1,0 +1,29 @@
+.Especificacao1 {
+    border: 20px solid #BB86FC;
+    font-size: 20px;
+    color: white;
+    background-color: #BB86FC;
+}
+
+.Especificacao2 {
+    border: 20px solid #00C4B4;
+    font-size: 20px;
+    color: white;
+    background-color: #00C4B4;
+}
+
+td {
+    border: 20px solid #424250;
+    ;
+    font-size: 20px;
+    color: white;
+    background-color: #424250;
+}
+
+body {
+    margin: 30px;
+}
+
+h2 {
+    padding: 2.5px
+}
